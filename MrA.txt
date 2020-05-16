@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 hello world
-=======
+
 Mr A i love u
->>>>>>> featureB
+
